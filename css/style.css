@@ -1,0 +1,75 @@
+#home{
+    background-image: url(/images/background.jpg);
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+h2{
+    font-family: 'Nunito', sans-serif;
+    color:#11517f;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+h3{
+    font-family: 'Nunito', sans-serif;
+    color:#11517f; 
+}
+
+#introduction{
+    font-size: 62px;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+
+#description{
+    padding: 20px;
+    font-size: 28px;
+    color: white;
+}
+
+.profile-img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+p{
+    font-family: 'Ruda', sans-serif;
+    color: #4d617c;
+}
+
+#programmer{
+    height: 200px;
+    margin-left: 300px;
+}
+
+#skills{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#bold-cto{
+    margin: 40px;
+    font-weight: bold;
+}
+
+#last-par{
+    margin: 40px;
+}
+
+.btn{
+    background-color: #11517f;
+    border-color: #11517f;
+    color: white;
+    font-weight: bold;
+    font-family: 'Ruda', sans-serif;
+    font-size: 20px;
+}
+
+.nav .bi{
+    font-size: 1.5rem;
+}
